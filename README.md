@@ -1,6 +1,6 @@
 ## Problem
 
-I need to make an application that keeps track of dinosaurs in Jurassic Park
+I need to make an application that keeps track of dinosaurs in Jurassic Park.
 
 ## Examples
 
@@ -29,7 +29,7 @@ Keep track of dinos in a List<Dinosaurs>
 
 - 'Name' - string
 - 'DietType' - string
-- 'When Acquired' - date
+- 'When Acquired' - DateTime
 - 'Weight' - int
 - 'Enclosure number' - int
 
